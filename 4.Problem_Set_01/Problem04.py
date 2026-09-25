@@ -12,4 +12,4 @@ print(f"Total marks is: {Subject1+Subject2+Subject3}")
 
 #Calculating and printing Average marks
 
-print(f" Average marks is:{(Subject1+Subject2+Subject3)/3}")
+print(f" Average marks is:{(Subject1+Subject2+Subject3)/3:.2f}")
