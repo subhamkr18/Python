@@ -4,3 +4,5 @@ def msg():
     print("Bye")
 
 msg()
+
+# def denotes the function
