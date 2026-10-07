@@ -15,4 +15,4 @@ n=input("Enter name: ")
 a= int(input("Enter age: "))
 g= (input("Enter Gender: "))
 
-greet(n,a,g)
+greet(n,a,g) # passed 3 parameter from user input
