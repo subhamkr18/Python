@@ -10,5 +10,6 @@ def calculate_factorial(n):
         result *= i
     return result
 
+
 number = 7
 print(f"The factorial of {number} is {calculate_factorial(number)}")
