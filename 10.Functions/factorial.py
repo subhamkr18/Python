@@ -1,3 +1,5 @@
+# finding factorial of a no using loop under function not usin recurssive functions
+
 def calculate_factorial(n):
     """Returns the factorial of a non-negative integer n."""
     if n < 0:
