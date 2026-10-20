@@ -6,6 +6,7 @@ same with other grade
 if input marks > 100 or <0 - invalid input
 """
 marks = int(input("Enter marks: "))
+# condition checking
 
 if marks >100 or marks<0:
     print("invalid marks input")
