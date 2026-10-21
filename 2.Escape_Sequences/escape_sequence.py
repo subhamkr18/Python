@@ -4,6 +4,7 @@
 \\- Backslash
 \"- Double quotes
 \'- Single quote
+""" - used for multi line line
 
 '''
 
