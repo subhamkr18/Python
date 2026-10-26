@@ -4,4 +4,5 @@ def calculate_area(length, width):
   area = length * width
   return area
 
+#function call and result printing
 print(calculate_area(15,13))
