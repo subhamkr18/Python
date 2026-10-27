@@ -9,5 +9,5 @@ def check_odd_even():
 
     else:
         print(f"{num} is odd")
-
+#function call
 check_odd_even()
