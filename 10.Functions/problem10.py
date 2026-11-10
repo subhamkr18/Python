@@ -5,4 +5,6 @@ def print_pyramid(rows):
         print(spaces + stars)
 
 height = 5
+
+#function call 
 print_pyramid(height)
