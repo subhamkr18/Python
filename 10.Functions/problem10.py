@@ -1,3 +1,4 @@
+#Fuction for the patten
 def print_pyramid(rows):
     for i in range(rows):
         spaces = " " * (rows - i - 1)
