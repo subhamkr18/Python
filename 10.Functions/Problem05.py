@@ -9,4 +9,5 @@ def factorial(n):
     return fact
 
 num = int(input("Enter a number: "))
+#uncttion call 
 print("Factorial =", factorial(num))
