@@ -1,3 +1,4 @@
+#function to print fibonacci series
 def print_fibonacci(n):
     if n <= 0:
         print("Please enter a positive integer.")
