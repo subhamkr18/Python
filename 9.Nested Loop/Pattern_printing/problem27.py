@@ -1,3 +1,4 @@
+#function to print hollow diamond
 def print_hollow_diamond(n):
     for i in range(n):
         print(" " * (n - i - 1), end="")
