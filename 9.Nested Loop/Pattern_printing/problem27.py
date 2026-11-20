@@ -19,4 +19,5 @@ def print_hollow_diamond(n):
         print()
 
 n = 5
+# function call and print
 print_hollow_diamond(n)
