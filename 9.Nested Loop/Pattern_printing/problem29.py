@@ -18,7 +18,7 @@ def power(base, exp):
 
     return result
 
-
+#function call
 print(power(2, 5))   
 print(power(3, 0))   
 print(power(2, -3))  
