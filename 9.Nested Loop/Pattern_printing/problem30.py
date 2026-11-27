@@ -20,6 +20,7 @@ def tax_calculator(income: float) -> float:
 
 
 if __name__ == "__main__":
+#function call
     print(tax_calculator(200_000))
     print(tax_calculator(400_000))
     print(tax_calculator(750_000))
