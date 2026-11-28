@@ -1,3 +1,4 @@
+#function
 def tax_calculator(income: float) -> float:
     if income < 0:
         raise ValueError("Income cannot be negative.")
